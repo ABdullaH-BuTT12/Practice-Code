@@ -1,0 +1,55 @@
+body{
+    background-color: antiquewhite;
+
+}
+.form{
+    text-align: center;
+}
+div{
+    font-style: italic;
+}
+nav{
+    height: 50px;
+    width:200% ;
+    background-color: darkgray;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+
+}
+nav ul li{
+    padding: 0 12px;
+}
+.butt img{
+    width: 48px;
+    padding: 0 8px;
+}
+.butt{
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+}
+.my{
+    color: brown;
+}
+h3{
+    text-align: center;
+}
+span{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer{
+    text-align:center ;
+}
+.pic{
+    height: 150px;
+    width: 150px;
+    background-color: whitesmoke;
+    text-align:center;
+    border: 2px;
+    border-color: black;
+    border-style: double;
+}
